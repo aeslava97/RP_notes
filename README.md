@@ -107,3 +107,23 @@
     * may be causes by stress, sleep more, stress less!
     * we tend to want saltier food when hungry, watch your intake and keep it stable
     * we tend to drink more sweet drinks when hungry   
+
+## Maintenance
+#### When your fat loss diet finishes, you are not done dieting, now its maintenance diet
+1. Stick to your diet foods
+    1. dont go on junk foods yet
+1. Add 50% of your deficit BACK
+    1. add this all in diet foods, not junk
+1. Watch your weight
+    1. you should gain about 2% just from post-diet water weight
+    2. as soon as you drop below that number, add in 250 cals
+1. Stablize
+    1. It should happen around 3 to 4 weeks 
+    2. No more adjustments
+    3. You wont really be very hungry or cravey anymore
+    4. you will be eating plenty of diet food and maintaining at below 102% of your post-diet weight
+1. Introduce Junk
+    1. After you feel stable you can have a fun treat here and there
+    2. just remain active, if your weight trends up for two weeks, ease up on the snacks and clamp down on your daily fats just a bit
+    3. its going to take another 3-4 weeks to adjust with the introduction of junk food
+#### Maintenance phase lasts at least the same amount as the weight loss phase to not regain the weight back
