@@ -1,6 +1,17 @@
 # RP_notes
 
-# DIET
+# Table of contents
+1. [Diet](#diet)
+    1. [Food Composition](#food_composition)
+    2. [Macro Amounts](#macro_amounts)
+    3. [Meal Numbers](#meal_numbers)
+    4. [Supplements](#supplements)
+    5. [Fat Loss Path](#fat_loss_path)
+    6. [Maintenance](#maintenance)
+2. [Hypertrophy made simple](#hypertrophy)
+
+
+# DIET <a name="diet"></a>
 
 [Fat Loss Dieting Made Simple Youtube Series](https://www.youtube.com/watch?v=EsNeZjjOOl4&list=PLyqKj7LwU2RulAjHczohbx5OyJQ8TaFM0&index=2)
 
@@ -10,7 +21,7 @@
 * know how much protein, carbs and fat you take daily or weekly
 ---
 
-## Food Composition
+## Food Composition <a name="food_composition"></a>
 * Protein Sources:
   * Lean Meats
   * Lean Dairy Products
@@ -27,7 +38,7 @@
   * Avocado
     * Might not be a ton of these, as many fats will come from protein or carbs
 
-## Macro Amounts
+## Macro Amounts <a name="macro_amounts"></a>
 * Protein Intake:
   * 1g per lb (1 protein = 4cals) per day is a good idea
   * 150lb person = 150gr of protein daily
@@ -43,7 +54,7 @@
 * More carbs if you want more energy
 * More fats if you want to enjoy the food more 
 
-## Meal Number
+## Meal Number <a name="meal_numbers"></a>
 * 3-5 meals:
   * Stave off hunger
   * Provide energy for daily tasks
@@ -60,7 +71,7 @@
   * Fats should stay away from workouts
     * but placed before non-eating intervals
 
-## Supplements
+## Supplements <a name="supplements"></a>
 * Whey Protein
   * Can be used intra and after workout with carbs
 * Casein Protein
@@ -74,7 +85,7 @@
   * Caffeine is most common
   * Use as little as needed
 
-## The Fat Loss Path
+## The Fat Loss Path  <a name="fat_loss_path"></a>
 #### Goal -> Lose 0.5% to 1% body weight per week *over* 6 to 12 weeks (6-9 for begginers, 9-12 for experienced)
 * Calorie Cuts:
   * 500 calories down from baseline diet = 1lb loss per week
@@ -108,7 +119,7 @@
     * we tend to want saltier food when hungry, watch your intake and keep it stable
     * we tend to drink more sweet drinks when hungry   
 
-## Maintenance
+## Maintenance  <a name="maintenance"></a>
 #### When your fat loss diet finishes, you are not done dieting, now its maintenance diet
 1. Stick to your diet foods
     1. dont go on junk foods yet
@@ -127,3 +138,5 @@
     2. just remain active, if your weight trends up for two weeks, ease up on the snacks and clamp down on your daily fats just a bit
     3. its going to take another 3-4 weeks to adjust with the introduction of junk food
 #### Maintenance phase lasts at least the same amount as the weight loss phase to not regain the weight back, **IF** you want to bulk, you can go up to the last bulking cals you had, avg it with the fat loss diet cals, if you bulk with 4000 cals and cut with 3000 cals, start gaining at 3500 cals, i guess i'll try to maintain for half the time i did the cut.
+
+# Hypertrophy Made Simple <a name="hypertrophy"></a>
