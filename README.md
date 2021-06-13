@@ -126,4 +126,4 @@
     1. After you feel stable you can have a fun treat here and there
     2. just remain active, if your weight trends up for two weeks, ease up on the snacks and clamp down on your daily fats just a bit
     3. its going to take another 3-4 weeks to adjust with the introduction of junk food
-#### Maintenance phase lasts at least the same amount as the weight loss phase to not regain the weight back
+#### Maintenance phase lasts at least the same amount as the weight loss phase to not regain the weight back, **IF** you want to bulk, you can go up to the last bulking cals you had, avg it with the fat loss diet cals, if you bulk with 4000 cals and cut with 3000 cals, start gaining at 3500 cals, i guess i'll try to maintain for half the time i did the cut.
