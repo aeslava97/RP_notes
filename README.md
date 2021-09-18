@@ -1,17 +1,21 @@
 # RP_notes
 
 # Table of contents
-1. [Diet](#diet)
+1. [Cut dieting](#diet)
     1. [Food Composition](#food_composition)
     2. [Macro Amounts](#macro_amounts)
     3. [Meal Numbers](#meal_numbers)
     4. [Supplements](#supplements)
     5. [Fat Loss Path](#fat_loss_path)
     6. [Maintenance](#maintenance)
-2. [Hypertrophy made simple](#hypertrophy)
+2. [Bulk dieting](#bulk)
+    1. [Macro Amounts](#macro_bulk_amounts)
+    2. [Food Composition](#food_bulk_composition)
+    3. [Meal sizes](#meal_bulk_numbers)
+4. [Hypertrophy made simple](#hypertrophy)
 
 
-# DIET <a name="diet"></a>
+# CUT <a name="diet"></a>
 
 [Fat Loss Dieting Made Simple Youtube Series](https://www.youtube.com/watch?v=EsNeZjjOOl4&list=PLyqKj7LwU2RulAjHczohbx5OyJQ8TaFM0&index=2)
 
@@ -138,5 +142,62 @@
     2. just remain active, if your weight trends up for two weeks, ease up on the snacks and clamp down on your daily fats just a bit
     3. its going to take another 3-4 weeks to adjust with the introduction of junk food
 #### Maintenance phase lasts at least the same amount as the weight loss phase to not regain the weight back, **IF** you want to bulk, you can go up to the last bulking cals you had, avg it with the fat loss diet cals, if you bulk with 4000 cals and cut with 3000 cals, start gaining at 3500 cals, i guess i'll try to maintain for half the time i did the cut.
+
+# BULK <a name="bulk"></a>
+
+[Muscle Gain Dieting Made Simple Youtube Series](https://www.youtube.com/playlist?list=PLyqKj7LwU2Ru4UZgHYsjvHbRsV-qsewla)
+
+---
+
+## Macro Amounts <a name="macro_bulk_amounts"></a>
+* Protein Intake:
+  * 1g per lb (1 protein = 4cals) per day is a good idea
+  * 150lb person = 150gr of protein daily
+* Fat Intake:
+  * 0.3-0.5 gr of fat (1 fat = 9 cal) per lb 
+  * 45 gr <= 150lb person <= 75 gr per day
+  * more than 0.5 gr of fat wont impinge excessively on carbs, but it would be better to have more cals on carbs, so try not to pass the 0.5 gr
+* Carb Intake:
+  *  Whatever is left from protein and fat
+  *  (CALORIES - protein - fat) / 4 = carbs
+
+## Food Composition <a name="food_bulk_composition"></a>
+* Protein Sources:
+  * Lean Meats
+  * Lean Dairy Products (greek yogurt and milk GOD)
+  * Lean (high quality) Vegan Sources
+* Carb Sources:
+  * Veggies
+  * Fruits (fresh)
+  * Whole Grains
+    * Inc. whole grain breads
+* Fat Sources:
+  * Monounsaturated-heavy sources
+  * Olive/Canola oil
+  * Nuts, Nut Butter
+  * Avocado
+    * Might not be a ton of these, as many fats will come from protein or carbs
+
+## Meal Size <a name="meal_bulk_numbers"></a>
+* 3-5 meals:
+  * Stave off hunger
+  * Provide energy for daily tasks
+  * Provide energy for training
+* You want to spread your meals:
+  * A meal within a few hours of waking up
+  * A post-workout meal
+  * A meal every 6 hours at least
+  * A meal within 2 hours of bedtime
+* Macros Per Meal
+  * Protein can be pretty even
+  * Carbs should precede a workout and be post workout
+    * with fewer at other times
+  * Fats should stay away from workouts
+    * but placed before non-eating intervals
+
+## Calorie Surpluss <a name="calorie_surpluss"></a>
+* Gain 0.25% to 0.5% body weight per week over 16 weeks (says DR Mike)
+* Calorie increase 250 cals from baseline
+
 
 # Hypertrophy Made Simple <a name="hypertrophy"></a>
