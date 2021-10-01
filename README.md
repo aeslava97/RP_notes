@@ -12,6 +12,7 @@
     1. [Macro Amounts](#macro_bulk_amounts)
     2. [Food Composition](#food_bulk_composition)
     3. [Meal sizes](#meal_bulk_numbers)
+    4. [Maintenance and Mini Cuts](#maintenance_and_mini_cuts)
 4. [Hypertrophy made simple](#hypertrophy)
 
 
@@ -199,5 +200,21 @@
 * Gain 0.25% to 0.5% body weight per week over 16 weeks (says DR Mike)
 * Calorie increase 250 cals from baseline
 
+## Maintenance and Mini Cuts <a name="maintenance_and_mini_cuts"></a>
+* Stick to your DIET FOODS
+* Substract 50% of your surpluss away
+    * this is to keep weight UP and muscle
+* Watch weight
+    * you should lose about 2% just from post diet water
+    * as soon as you pass that threshold, add 250 cals
+* Reduce training volume
+    * this should be done a week after bulk is completed
+    * it should stay HALF OR LESS for 2-4 weeks
+        * good idea for strength training (3-10 reps)
+        * active rest is also an option (2 weeks of barely trainng)    
+* Minicut
+    * 4-6 weeks
+    * 0.5%-1.25% weight loss per week (scales inversely)
+    * Train 2/3 or 3/4 the volume as usual
 
 # Hypertrophy Made Simple <a name="hypertrophy"></a>
