@@ -151,6 +151,8 @@
 ---
 
 ## Macro Amounts <a name="macro_bulk_amounts"></a>
+
+* 0.5%  per week of mass gaining as maximum
 * Protein Intake:
   * 1g per lb (1 protein = 4cals) per day is a good idea
   * 150lb person = 150gr of protein daily
